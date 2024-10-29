@@ -1,0 +1,1 @@
+The circuit incorrectly indicates the values of the capacitor C1, you need to set 10 mf (in the scheme 1mf), and the resistor R4 must be 4.7 K
